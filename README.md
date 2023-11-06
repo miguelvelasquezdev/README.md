@@ -1,4 +1,4 @@
-### Welcome to Miguel's Github! 🐈‍⬛
+## Welcome to my Github 🐈‍⬛!
 
 ### Web Developer
 
